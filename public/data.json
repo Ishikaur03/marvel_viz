@@ -1,4 +1,5 @@
-export default[
+{
+  "data":[
   {
     "id": 1,
     "name": "A-Bomb",
@@ -25804,3 +25805,4 @@ export default[
     }
   }
 ]
+}
