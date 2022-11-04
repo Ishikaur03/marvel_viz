@@ -1,7 +1,7 @@
 <script>
   // data from https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/all.json
   import people from "./public/data.json";
-  import { uniq } from "lodash";
+  //import { uniq } from "lodash";
 
   import Chart from "./Chart.svelte";
   const filteredPeople = people.filter(
